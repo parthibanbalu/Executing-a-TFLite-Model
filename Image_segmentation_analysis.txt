@@ -1,0 +1,11 @@
+ALGORITHM:
+
+1. Import the necessary libraries.
+
+2. Preprocess the input image.
+
+3. Dowload or import the pretrained deeplabv3 model from your directory.
+
+4. Use the deeplab v3 model to pass the input image for segmentation.
+
+5. Display the segmented image.
